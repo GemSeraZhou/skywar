@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane maxHeight="-Infinity" styleClass="how-to" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="38.0" layoutY="386.0" text="How to play" textFill="#f80202">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="44.0" layoutY="461.0" text="Take a bowl of chicken&#10;Heat it for two hours&#10;&#10;Serve with Onion" textFill="#f20101">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

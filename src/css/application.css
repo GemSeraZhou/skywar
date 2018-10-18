@@ -1,0 +1,67 @@
+.root {
+	-fx-focus-color : transparent;
+}
+
+.button {
+	-fx-background-color: red;
+}
+
+.label{
+	-fx-text-fill: black;
+}
+
+.battle-sky .label {
+	
+}
+
+.battle-sky .button {
+	
+}
+
+.credits .label {
+	
+}
+
+.credits .button {
+	
+}
+
+.game .label {
+	
+}
+
+.game .button {
+	
+}
+
+.how-to .label {
+	
+}
+
+.how-to .button {
+	
+}
+
+.records-table .label {
+	
+}
+
+.records-table .button {
+	
+}
+
+.specifications .label {
+	
+}
+
+.specifications .button {
+	
+}
+
+.welcome .label {
+	
+}
+
+.welcome .button {
+	
+}
